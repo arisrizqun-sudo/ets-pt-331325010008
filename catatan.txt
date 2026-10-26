@@ -1,0 +1,6 @@
+Nama: Achmad Rizqun Syazwani
+NRP: 33132501008
+
+- Working Tree: Direktori lokal tempat file dikerjakan dan diedit secara langsung.
+- Staging Area: Area penampungan sementara untuk file yang siap dimasukkan ke dalam commit berikutnya.
+- Repository: Tempat penyimpanan permanen yang mencatat seluruh riwayat perubahan proyek.
